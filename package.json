@@ -2,7 +2,9 @@
   "scripts": {
     "test": "jest"
   },
-  "dependencies": {},
+  "dependencies": {
+    "yarn": "^1.13.0"
+  },
   "devDependencies": {
     "jest": "^24.1.0"
   }
